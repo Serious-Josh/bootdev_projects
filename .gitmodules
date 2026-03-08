@@ -1,0 +1,3 @@
+[submodule "AsteroidsPy"]
+	path = AsteroidsPy
+	url = https://github.com/Serious-Josh/asteroidsPy
