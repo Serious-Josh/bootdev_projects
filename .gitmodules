@@ -1,3 +1,6 @@
 [submodule "AsteroidsPy"]
 	path = AsteroidsPy
 	url = https://github.com/Serious-Josh/asteroidsPy
+[submodule "webflyx"]
+	path = webflyx
+	url = https://github.com/Serious-Josh/webflyx
