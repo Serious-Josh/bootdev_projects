@@ -8,8 +8,13 @@ Guided project for learning Git in Linux environment\
 
 
 - ### AsteroidsPy
-Guided project for practicing OOP principles, Python, and utilizing UV\
+Guided project for practicing OOP principles, Python, and learning UV\
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?logo=python)
 ![Static Badge](https://img.shields.io/badge/UV-D6FF45?logo=uv)
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git&logoColor=F1502F)
 
+- ### PyAgent
+Guided project for building a Generative AI coding agent using Google Gemini. For practicing functional programming techniques, more Python, and AI models\
+![Static Badge](https://img.shields.io/badge/Python-FFD43B?logo=python)
+![Static Badge](https://img.shields.io/badge/Gemini-white?logo=googlegemini)
+![Static Badge](https://img.shields.io/badge/Git-white?logo=git&logoColor=F1502F)
