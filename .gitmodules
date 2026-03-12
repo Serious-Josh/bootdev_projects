@@ -4,6 +4,3 @@
 [submodule "webflyx"]
 	path = webflyx
 	url = https://github.com/Serious-Josh/webflyx
-[submodule "pyagent"]
-	path = pyagent
-	url = /home/joshu/workspace/Josh/PyAgent
